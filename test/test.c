@@ -1,6 +1,6 @@
 #include "unity.h"
 #include "fizzbuzzwhiz.h"
-
+// added some coments to test.c
 void setUp() {}
 void tearDown() {}
 
